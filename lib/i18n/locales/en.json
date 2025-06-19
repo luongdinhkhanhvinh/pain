@@ -1,0 +1,604 @@
+{
+  "common": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact",
+    "search": "Search",
+    "filter": "Filter",
+    "clear": "Clear",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "add": "Add",
+    "view": "View",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "name": "Name",
+    "description": "Description",
+    "price": "Price",
+    "category": "Category",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit",
+    "close": "Close"
+  },
+  "navigation": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact",
+    "admin": "Admin"
+  },
+  "home": {
+    "hero": {
+      "title": "Silklux - Premium Furniture",
+      "subtitle": "Discover our diverse premium furniture collection with luxurious design and premium materials. Bringing classy and sophisticated living spaces to your home.",
+      "cta": "View Products",
+      "contact": "Free Consultation",
+      "rating": "4.9/5 from 1000+ customers"
+    },
+    "features": {
+      "title": "Why Choose Silklux?",
+      "subtitle": "Our outstanding advantages",
+      "quality": {
+        "title": "High Quality",
+        "description": "Products undergo strict quality inspection"
+      },
+      "delivery": {
+        "title": "Fast Delivery",
+        "description": "Nationwide delivery within 24-48h"
+      },
+      "warranty": {
+        "title": "Long-term Warranty",
+        "description": "Up to 10 years warranty for all products"
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Expert team providing 24/7 consultation support"
+      }
+    },
+    "products": {
+      "title": "Featured Products",
+      "subtitle": "Discover our most popular products",
+      "viewAll": "View All Products"
+    },
+    "about": {
+      "title": "About Silklux",
+      "description": "With over 10 years of experience in the furniture industry, Silklux is proud to be a provider of premium furniture products, bringing perfect living spaces to every family."
+    }
+  },
+  "products": {
+    "title": "Silklux Collection",
+    "subtitle": "Discover premium furniture products with luxurious design and superior quality",
+    "searchPlaceholder": "Search products...",
+    "filters": {
+      "title": "Filters",
+      "search": "Search",
+      "category": "Category",
+      "colors": "Colors",
+      "thickness": "Thickness",
+      "priceRange": "Price Range",
+      "clear": "Clear Filters",
+      "clearCount": "Clear ({count})"
+    },
+    "results": {
+      "showing": "Showing {total} products",
+      "noResults": "No products found matching your criteria"
+    },
+    "card": {
+      "viewDetails": "View Details",
+      "contact": "Contact",
+      "new": "New",
+      "featured": "Featured"
+    }
+  },
+  "productDetail": {
+    "specifications": "Specifications",
+    "features": "Key Features",
+    "description": "Product Description",
+    "colors": "Colors",
+    "sizes": "Sizes",
+    "thickness": "Thickness",
+    "material": "Material",
+    "origin": "Origin",
+    "warranty": "Warranty",
+    "fireResistant": "Fire Resistant",
+    "moistureResistant": "Moisture Resistant",
+    "installation": "Installation",
+    "contactForPrice": "Contact for Price",
+    "relatedProducts": "Related Products"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Let us consult and provide detailed quotes for your project. Our expert team is ready to support 24/7.",
+    "contactInfo": {
+      "phone": {
+        "title": "Phone",
+        "details": ["Hotline: 0123.456.789", "Zalo: 0987.654.321"]
+      },
+      "email": {
+        "title": "Email",
+        "details": ["info@silklux.vn", "sales@silklux.vn"]
+      },
+      "address": {
+        "title": "Address",
+        "details": ["123 ABC Street, District 1", "Ho Chi Minh City, Vietnam"]
+      },
+      "hours": {
+        "title": "Working Hours",
+        "details": ["Mon - Fri: 8:00 - 17:30", "Sat: 8:00 - 12:00"]
+      }
+    },
+    "form": {
+      "title": "Send Consultation Request",
+      "description": "Fill in detailed information to receive the most accurate consultation and quote",
+      "productInterest": "Product of Interest:",
+      "name": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email",
+      "emailPlaceholder": "Enter email address",
+      "phone": "Phone Number",
+      "phonePlaceholder": "Enter phone number",
+      "address": "Project Address",
+      "addressPlaceholder": "Enter project implementation address",
+      "service": "Service of Interest",
+      "servicePlaceholder": "Select service",
+      "message": "Detailed Project Description",
+      "messagePlaceholder": "Describe area, wood type of interest, implementation time, estimated budget...",
+      "submit": "Send Consultation Request",
+      "sending": "Sending...",
+      "success": "Thank you for contacting us! We will respond as soon as possible.",
+      "error": "An error occurred while sending the request. Please try again.",
+      "productMessage": "I am interested in the product: {product}. Please provide detailed consultation on pricing and product information."
+    },
+    "services": {
+      "title": "Our Services",
+      "description": "We provide comprehensive solutions from consultation to installation",
+      "consultation": {
+        "title": "Design Consultation",
+        "description": "Free consultation on design and suitable product selection",
+        "badge": "Free"
+      },
+      "measurement": {
+        "title": "Measurement Survey",
+        "description": "Accurate measurement at the construction site for detailed quotation",
+        "badge": "Free"
+      },
+      "installation": {
+        "title": "Professional Installation",
+        "description": "Skilled craftsmen team, fast and quality installation",
+        "badge": "Warranty"
+      },
+      "support": {
+        "title": "After-sales Support",
+        "description": "10-year warranty and lifetime technical support",
+        "badge": "10 years"
+      }
+    },
+    "quickContact": {
+      "title": "Quick Contact",
+      "description": "Need urgent consultation? Contact us directly",
+      "hotline": "Hotline 24/7",
+      "zalo": "Zalo/WhatsApp",
+      "callNow": "Call Now",
+      "chatNow": "Chat Now",
+      "sendEmail": "Send Email"
+    },
+    "branches": {
+      "title": "Branch System",
+      "description": "We are present in major cities nationwide",
+      "manager": "Manager:",
+      "contactBranch": "Contact Branch"
+    },
+    "map": {
+      "title": "Showroom Location",
+      "description": "Visit our showroom to experience products directly",
+      "placeholder": "Google Maps will be integrated here"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Common questions from customers"
+    }
+  },
+  "about": {
+    "title": "About Silklux",
+    "subtitle": "With over 15 years of experience, we are proud to be a pioneer in providing premium interior solutions, bringing luxury beauty and class to living spaces.",
+    "stats": {
+      "experience": "Years of Experience",
+      "customers": "Satisfied Customers",
+      "projects": "Completed Projects",
+      "partners": "Trusted Partners"
+    },
+    "story": {
+      "title": "Our Story",
+      "paragraph1": "Silklux was established in 2009 with the mission of bringing high-quality wood veneer products, meeting the increasing demands of customers for beautiful and sustainable living spaces.",
+      "paragraph2": "From a small production workshop, we have continuously developed and expanded, investing in modern technology and experienced expert teams to create the best products.",
+      "paragraph3": "Today, Silklux is proud to be one of the leading brands in the premium interior field in Vietnam, with diverse designs and premium materials."
+    },
+    "timeline": {
+      "title": "Development Journey",
+      "subtitle": "Important milestones in our development process",
+      "milestones": {
+        "2009": {
+          "title": "Company Establishment",
+          "description": "Started the journey with the vision of bringing high-quality wood veneer to every Vietnamese family"
+        },
+        "2012": {
+          "title": "Production Expansion",
+          "description": "Invested in modern production lines, improving product quality"
+        },
+        "2015": {
+          "title": "ISO Certification",
+          "description": "Achieved ISO 9001:2015 certification for quality management system"
+        },
+        "2018": {
+          "title": "International Export",
+          "description": "Expanded export market to ASEAN countries"
+        },
+        "2021": {
+          "title": "Green Technology",
+          "description": "Applied environmentally friendly production technology"
+        },
+        "2024": {
+          "title": "Market Leader",
+          "description": "Became the number 1 wood veneer brand in Vietnam"
+        }
+      }
+    },
+    "values": {
+      "title": "Core Values",
+      "subtitle": "Values that guide all our activities",
+      "quality": {
+        "title": "Quality",
+        "description": "Committed to bringing the highest quality products with international standards"
+      },
+      "dedication": {
+        "title": "Dedication",
+        "description": "Serving customers with dedication and professionalism in all services"
+      },
+      "trust": {
+        "title": "Trust",
+        "description": "Building trust through every quality product and service"
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "Continuously innovating and improving to meet market demands"
+      }
+    },
+    "team": {
+      "title": "Leadership Team",
+      "subtitle": "Talented people behind Silklux's success"
+    },
+    "cta": {
+      "title": "Ready to Start Your Project?",
+      "subtitle": "Let us consult and bring the best solution for your space",
+      "contact": "Contact Now",
+      "products": "View Products"
+    }
+  },
+  "admin": {
+    "login": {
+      "title": "Admin Login",
+      "username": "Username",
+      "password": "Password",
+      "submit": "Login",
+      "error": "Invalid username or password"
+    },
+    "navigation": {
+      "dashboard": "Dashboard",
+      "products": "Products",
+      "categories": "Categories",
+      "options": "Options",
+      "customers": "Customers",
+      "contacts": "Contacts",
+      "admins": "Admins",
+      "settings": "Settings",
+      "blog": "Blog",
+      "logout": "Logout"
+    },
+    "dashboard": {
+      "title": "Dashboard",
+      "welcome": "Welcome back!",
+      "stats": {
+        "totalProducts": "Total Products",
+        "totalCustomers": "Total Customers",
+        "totalContacts": "Total Contacts",
+        "totalCategories": "Total Categories",
+        "fromLastMonth": "from last month"
+      },
+      "recentContacts": "Recent Contacts",
+      "recentContactsDescription": "Latest consultation requests from customers",
+      "salesChart": "Revenue & Contacts by Month",
+      "salesChartDescription": "Revenue and contact count chart for the last 6 months",
+      "categoryChart": "Product Distribution by Category",
+      "categoryChartDescription": "Percentage breakdown of product types",
+      "revenue": "Revenue",
+      "contacts": "Contacts",
+      "noData": "No data available",
+      "noCategoryData": "No category data available",
+      "viewAll": "View all",
+      "quickActions": "Quick Actions",
+      "quickActionsDescription": "Frequently used functions",
+      "reports": "Reports & Statistics",
+      "exportData": "Export Data"
+    },
+    "products": {
+      "title": "Product Management",
+      "description": "Manage wood veneer product list",
+      "addNew": "Add New Product",
+      "addDescription": "Fill in detailed information for new product with variations and content",
+      "editDescription": "Update product information with variations and content",
+      "previewTitle": "Product Preview",
+      "previewDescription": "Preview product as customers will see on the website",
+      "name": "Product Name",
+      "category": "Category",
+      "price": "Price",
+      "status": "Status",
+      "actions": "Actions",
+      "edit": "Edit",
+      "delete": "Delete",
+      "view": "View",
+      "active": "Active",
+      "inactive": "Inactive",
+      "search": "Search products...",
+      "selectCategory": "Select category",
+      "allCategories": "All categories",
+      "productList": "Product List",
+      "productListDescription": "Manage wood veneer product information",
+      "loading": "Loading...",
+      "product": "Product",
+      "createdDate": "Created Date",
+      "editProduct": "Edit Product",
+      "noProducts": "No products found",
+      "form": {
+        "title": "Product Information",
+        "name": "Product Name",
+        "namePlaceholder": "Enter product name",
+        "description": "Description",
+        "descriptionPlaceholder": "Enter short description about the product (displayed in list)",
+        "content": "Detailed Content",
+        "contentPlaceholder": "Enter detailed content about the product (HTML supported)",
+        "htmlSupport": "You can use HTML tags: <h3>, <p>, <ul>, <li>, <strong>, <em>, <br>",
+        "price": "Price ($)",
+        "basePrice": "Base Price ($)",
+        "originalPrice": "Original Price ($)",
+        "category": "Category",
+        "images": "Product Images",
+        "imagesDescription": "Upload product images (first image will be the main image)",
+        "colors": "Colors",
+        "sizes": "Sizes",
+        "thickness": "Thickness",
+        "variations": "Product Variations",
+        "variationDescription": "Add {{type}} options with individual pricing for each variation",
+        "variationName": "{{type}} name",
+        "variationPlaceholder": "Enter {{type}} name",
+        "addVariation": "Add {{type}}",
+        "default": "Default",
+        "featuresTitle": "Key Features",
+        "featuresDescription": "Add key features of the product",
+        "featurePlaceholder": "Enter key feature",
+        "addFeature": "Add feature",
+        "specificationsTitle": "Technical Specifications",
+        "specificationsDescription": "Fill in detailed technical information of the product",
+        "materialPlaceholder": "MDF wood with natural oak veneer",
+        "originPlaceholder": "Vietnam",
+        "warrantyPlaceholder": "10 years",
+        "fireResistantPlaceholder": "Class B1",
+        "moistureResistantPlaceholder": "Moisture < 12%",
+        "installationPlaceholder": "Glue or screws",
+        "basicInfoDescription": "Fill in detailed product information and upload images",
+        "validation": "Please fill in all required information and upload at least 1 image",
+        "save": "Save",
+        "cancel": "Cancel",
+        "saving": "Saving...",
+        "create": "Create Product",
+        "update": "Update Product"
+      },
+      "noImages": "No images",
+      "rating": "reviews",
+      "specifications": "Technical Specifications",
+      "installationGuide": "Installation Guide",
+      "features": "Key Features",
+      "contactButton": "Contact for Consultation & Quote",
+      "freeMeasurement": "Free measurement",
+      "designConsultation": "Design consultation",
+      "warranty10Years": "10-year warranty",
+      "prepareSurface": "Prepare surface",
+      "measureAndCut": "Measure and cut",
+      "installationStep": "Installation",
+      "finishing": "Finishing",
+      "notUpdated": "Not updated"
+    },
+    "categories": {
+      "title": "Category Management",
+      "description": "Manage product categories",
+      "addNew": "Add New Category",
+      "addDescription": "Create new product category",
+      "edit": "Edit Category",
+      "editDescription": "Update category information",
+      "name": "Category Name",
+      "namePlaceholder": "Enter category name",
+      "slug": "Slug",
+      "slugPlaceholder": "auto-generated-slug",
+      "categoryDescription": "Description",
+      "descriptionPlaceholder": "Category description",
+      "imageUrl": "Image URL",
+      "imageUrlPlaceholder": "https://example.com/image.jpg",
+      "activate": "Activate category",
+      "search": "Search categories...",
+      "list": "Category List",
+      "listDescription": "Manage product categories",
+      "loading": "Loading...",
+      "category": "Category",
+      "status": "Status",
+      "createdDate": "Created Date",
+      "actions": "Actions",
+      "active": "Active",
+      "inactive": "Inactive",
+      "cancel": "Cancel",
+      "create": "Create Category",
+      "creating": "Creating...",
+      "update": "Update",
+      "updating": "Updating...",
+      "noCategories": "No categories found"
+    },
+    "options": {
+      "title": "Options Management",
+      "description": "Manage product colors, sizes and thickness",
+      "addNew": "Add New Option",
+      "addDescription": "Create new product option",
+      "edit": "Edit Option",
+      "editDescription": "Update option information",
+      "type": "Option type",
+      "selectType": "Select option type",
+      "allTypes": "All types",
+      "displayName": "Display name",
+      "value": "Value",
+      "colorCode": "Color code",
+      "colorCodeExample": "#000000",
+      "colorExample": "e.g: Ivory White",
+      "sizeExample": "e.g: 122cm x 244cm",
+      "thicknessExample": "e.g: 3mm",
+      "colorValueExample": "e.g: ivory-white",
+      "sizeValueExample": "e.g: 122x244",
+      "thicknessValueExample": "e.g: 3",
+      "search": "Search options...",
+      "list": "Options List",
+      "listDescription": "Manage product options",
+      "loading": "Loading...",
+      "status": "Status",
+      "actions": "Actions",
+      "active": "Active",
+      "inactive": "Inactive",
+      "cancel": "Cancel",
+      "create": "Create Option",
+      "creating": "Creating...",
+      "update": "Update",
+      "updating": "Updating...",
+      "colors": "Colors",
+      "sizes": "Sizes",
+      "thickness": "Thickness",
+      "noOptions": "No options found"
+    },
+    "customers": {
+      "title": "Customer Management",
+      "description": "Customer list and information",
+      "addNew": "Add New Customer",
+      "addDescription": "Create new customer profile in the system",
+      "exportExcel": "Export Excel",
+      "totalCustomers": "Total Customers",
+      "activeCustomers": "Active Customers",
+      "revenue": "Revenue from Customers",
+      "totalOrders": "Total Orders",
+      "name": "Full name",
+      "namePlaceholder": "Enter full name",
+      "phone": "Phone number",
+      "phonePlaceholder": "Enter phone number",
+      "email": "Email",
+      "emailPlaceholder": "Enter email",
+      "customerType": "Customer type",
+      "company": "Company name",
+      "companyPlaceholder": "Enter company name",
+      "taxCode": "Tax code",
+      "taxCodePlaceholder": "Enter tax code",
+      "address": "Address",
+      "addressPlaceholder": "Enter address",
+      "status": "Status",
+      "source": "Customer source",
+      "notes": "Notes",
+      "notesPlaceholder": "Enter notes about customer",
+      "statusActive": "Active",
+      "statusInactive": "Inactive",
+      "statusPotential": "Potential",
+      "statusUnknown": "Unknown",
+      "typeBusiness": "Business",
+      "typeIndividual": "Individual",
+      "typeUnknown": "Unknown",
+      "sourceContact": "From Contact",
+      "sourceDirect": "Direct",
+      "sourceReferral": "Referral",
+      "sourceOnline": "Online",
+      "sourceOther": "Other",
+      "createdAt": "Created At",
+      "actions": "Actions",
+      "view": "View",
+      "delete": "Delete",
+      "noCustomers": "No customers found"
+    },
+    "contacts": {
+      "title": "Contact Management",
+      "description": "List of consultation requests from customers",
+      "exportExcel": "Export Excel",
+      "search": "Search...",
+      "allStatuses": "All",
+      "list": "Contact List",
+      "listDescription": "Manage consultation requests from customers",
+      "customer": "Customer",
+      "contact": "Contact",
+      "product": "Product",
+      "status": "Status",
+      "createdDate": "Created Date",
+      "actions": "Actions",
+      "loading": "Loading...",
+      "noContacts": "No contacts found",
+      "noAddress": "No address",
+      "generalConsultation": "General consultation",
+      "statusPending": "Pending",
+      "statusContacted": "Contacted",
+      "statusCompleted": "Completed",
+      "statusCancelled": "Cancelled",
+      "statusUnknown": "Unknown",
+      "detailTitle": "Contact Details",
+      "detailDescription": "Detailed consultation request information",
+      "name": "Full name",
+      "phone": "Phone number",
+      "email": "Email",
+      "interestedProduct": "Interested product",
+      "address": "Address",
+      "message": "Message",
+      "updateStatus": "Update status",
+      "convertTitle": "Convert to Customer",
+      "convertDescription": "Convert contact \"{{name}}\" to customer in the system",
+      "customerType": "Customer type",
+      "typeIndividual": "Individual",
+      "typeBusiness": "Business",
+      "company": "Company name",
+      "companyPlaceholder": "Enter company name",
+      "taxCode": "Tax code",
+      "taxCodePlaceholder": "Enter tax code",
+      "notes": "Notes",
+      "notesPlaceholder": "Enter notes about customer",
+      "cancel": "Cancel",
+      "convert": "Convert",
+      "subject": "Subject",
+      "createdAt": "Created At",
+      "view": "View",
+      "delete": "Delete",
+      "reply": "Reply"
+    },
+    "common": {
+      "loading": "Loading...",
+      "save": "Save",
+      "cancel": "Cancel",
+      "edit": "Edit",
+      "delete": "Delete",
+      "view": "View",
+      "add": "Add",
+      "search": "Search",
+      "actions": "Actions",
+      "status": "Status",
+      "createdAt": "Created At",
+      "updatedAt": "Updated At",
+      "confirm": "Are you sure you want to perform this action?",
+      "success": "Success",
+      "error": "Error"
+    }
+  }
+}

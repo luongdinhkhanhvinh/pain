@@ -1,0 +1,604 @@
+{
+  "common": {
+    "home": "Trang chủ",
+    "products": "Sản phẩm",
+    "about": "Giới thiệu",
+    "contact": "Liên hệ",
+    "search": "Tìm kiếm",
+    "filter": "Lọc",
+    "clear": "Xóa",
+    "cancel": "Hủy",
+    "save": "Lưu",
+    "edit": "Chỉnh sửa",
+    "delete": "Xóa",
+    "add": "Thêm",
+    "view": "Xem",
+    "loading": "Đang tải...",
+    "error": "Lỗi",
+    "success": "Thành công",
+    "phone": "Điện thoại",
+    "email": "Email",
+    "address": "Địa chỉ",
+    "name": "Tên",
+    "description": "Mô tả",
+    "price": "Giá",
+    "category": "Danh mục",
+    "back": "Quay lại",
+    "next": "Tiếp theo",
+    "previous": "Trước đó",
+    "submit": "Gửi",
+    "close": "Đóng"
+  },
+  "navigation": {
+    "home": "Trang chủ",
+    "products": "Sản phẩm",
+    "about": "Giới thiệu", 
+    "contact": "Liên hệ",
+    "admin": "Quản trị"
+  },
+  "home": {
+    "hero": {
+      "title": "Silklux - Nội Thất Cao Cấp",
+      "subtitle": "Khám phá bộ sưu tập nội thất cao cấp đa dạng với thiết kế sang trọng và chất liệu premium. Mang đến không gian sống đẳng cấp và tinh tế cho ngôi nhà của bạn.",
+      "cta": "Xem Sản Phẩm",
+      "contact": "Tư Vấn Miễn Phí",
+      "rating": "4.9/5 từ 1000+ khách hàng"
+    },
+    "features": {
+      "title": "Tại Sao Chọn Silklux?",
+      "subtitle": "Những ưu điểm vượt trội của chúng tôi",
+      "quality": {
+        "title": "Chất Lượng Cao",
+        "description": "Sản phẩm được kiểm tra chất lượng nghiêm ngặt"
+      },
+      "delivery": {
+        "title": "Giao Hàng Nhanh",
+        "description": "Giao hàng toàn quốc trong 24-48h"
+      },
+      "warranty": {
+        "title": "Bảo Hành Dài Hạn",
+        "description": "Bảo hành lên đến 10 năm cho tất cả sản phẩm"
+      },
+      "support": {
+        "title": "Hỗ Trợ 24/7",
+        "description": "Đội ngũ chuyên gia hỗ trợ tư vấn 24/7"
+      }
+    },
+    "products": {
+      "title": "Sản phẩm nổi bật",
+      "subtitle": "Khám phá những sản phẩm được yêu thích nhất",
+      "viewAll": "Xem tất cả sản phẩm"
+    },
+    "about": {
+      "title": "Về Silklux",
+      "description": "Với hơn 10 năm kinh nghiệm trong ngành nội thất, Silklux tự hào là đơn vị cung cấp các sản phẩm nội thất cao cấp, mang đến không gian sống hoàn hảo cho mọi gia đình."
+    }
+  },
+  "products": {
+    "title": "Bộ Sưu Tập Silklux",
+    "subtitle": "Khám phá những sản phẩm nội thất cao cấp với thiết kế sang trọng và chất lượng vượt trội",
+    "searchPlaceholder": "Tìm kiếm sản phẩm...",
+    "filters": {
+      "title": "Bộ Lọc",
+      "search": "Tìm kiếm",
+      "category": "Danh mục",
+      "colors": "Màu sắc",
+      "thickness": "Độ dày",
+      "priceRange": "Khoảng giá",
+      "clear": "Xóa bộ lọc",
+      "clearCount": "Xóa ({count})"
+    },
+    "results": {
+      "showing": "Hiển thị {total} sản phẩm",
+      "noResults": "Không tìm thấy sản phẩm nào phù hợp"
+    },
+    "card": {
+      "viewDetails": "Xem Chi Tiết",
+      "contact": "Liên Hệ",
+      "new": "Mới",
+      "featured": "Nổi bật"
+    }
+  },
+  "productDetail": {
+    "specifications": "Thông số kỹ thuật",
+    "features": "Đặc điểm nổi bật",
+    "description": "Mô tả sản phẩm",
+    "colors": "Màu sắc",
+    "sizes": "Kích thước", 
+    "thickness": "Độ dày",
+    "material": "Chất liệu",
+    "origin": "Xuất xứ",
+    "warranty": "Bảo hành",
+    "fireResistant": "Chống cháy",
+    "moistureResistant": "Chống ẩm",
+    "installation": "Cách lắp đặt",
+    "contactForPrice": "Liên hệ để biết giá",
+    "relatedProducts": "Sản phẩm liên quan"
+  },
+  "contact": {
+    "title": "Liên Hệ Với Chúng Tôi",
+    "subtitle": "Hãy để chúng tôi tư vấn và báo giá chi tiết cho dự án của bạn. Đội ngũ chuyên gia sẵn sàng hỗ trợ 24/7.",
+    "contactInfo": {
+      "phone": {
+        "title": "Điện thoại",
+        "details": ["Hotline: 0123.456.789", "Zalo: 0987.654.321"]
+      },
+      "email": {
+        "title": "Email",
+        "details": ["info@silklux.vn", "sales@silklux.vn"]
+      },
+      "address": {
+        "title": "Địa chỉ",
+        "details": ["123 Đường ABC, Quận 1", "TP. Hồ Chí Minh, Việt Nam"]
+      },
+      "hours": {
+        "title": "Giờ làm việc",
+        "details": ["Thứ 2 - Thứ 6: 8:00 - 17:30", "Thứ 7: 8:00 - 12:00"]
+      }
+    },
+    "form": {
+      "title": "Gửi Yêu Cầu Tư Vấn",
+      "description": "Điền thông tin chi tiết để nhận tư vấn và báo giá chính xác nhất",
+      "productInterest": "Sản phẩm quan tâm:",
+      "name": "Họ và tên",
+      "namePlaceholder": "Nhập họ và tên của bạn",
+      "email": "Email",
+      "emailPlaceholder": "Nhập địa chỉ email",
+      "phone": "Số điện thoại",
+      "phonePlaceholder": "Nhập số điện thoại",
+      "address": "Địa chỉ dự án",
+      "addressPlaceholder": "Nhập địa chỉ thực hiện dự án",
+      "service": "Dịch vụ quan tâm",
+      "servicePlaceholder": "Chọn dịch vụ",
+      "message": "Mô tả chi tiết dự án",
+      "messagePlaceholder": "Mô tả diện tích, loại gỗ quan tâm, thời gian thực hiện, ngân sách dự kiến...",
+      "submit": "Gửi Yêu Cầu Tư Vấn",
+      "sending": "Đang gửi...",
+      "success": "Cảm ơn bạn đã liên hệ! Chúng tôi sẽ phản hồi trong thời gian sớm nhất.",
+      "error": "Có lỗi xảy ra khi gửi yêu cầu. Vui lòng thử lại.",
+      "productMessage": "Tôi quan tâm đến sản phẩm: {product}. Vui lòng tư vấn chi tiết về giá cả và thông tin sản phẩm."
+    },
+    "services": {
+      "title": "Dịch Vụ Của Chúng Tôi",
+      "description": "Chúng tôi cung cấp giải pháp toàn diện từ tư vấn đến lắp đặt",
+      "consultation": {
+        "title": "Tư vấn thiết kế",
+        "description": "Tư vấn miễn phí về thiết kế và lựa chọn sản phẩm phù hợp",
+        "badge": "Miễn phí"
+      },
+      "measurement": {
+        "title": "Đo đạc khảo sát",
+        "description": "Đo đạc chính xác tại công trình để báo giá chi tiết",
+        "badge": "Miễn phí"
+      },
+      "installation": {
+        "title": "Lắp đặt chuyên nghiệp",
+        "description": "Đội ngũ thợ lành nghề, lắp đặt nhanh chóng và chất lượng",
+        "badge": "Bảo hành"
+      },
+      "support": {
+        "title": "Hỗ trợ sau bán hàng",
+        "description": "Bảo hành 10 năm và hỗ trợ kỹ thuật suốt đời",
+        "badge": "10 năm"
+      }
+    },
+    "quickContact": {
+      "title": "Liên Hệ Nhanh",
+      "description": "Cần tư vấn gấp? Liên hệ trực tiếp với chúng tôi",
+      "hotline": "Hotline 24/7",
+      "zalo": "Zalo/WhatsApp",
+      "callNow": "Gọi ngay",
+      "chatNow": "Chat ngay",
+      "sendEmail": "Gửi mail"
+    },
+    "branches": {
+      "title": "Hệ Thống Chi Nhánh",
+      "description": "Chúng tôi có mặt tại các thành phố lớn trên toàn quốc",
+      "manager": "Quản lý:",
+      "contactBranch": "Liên hệ chi nhánh"
+    },
+    "map": {
+      "title": "Vị Trí Showroom",
+      "description": "Ghé thăm showroom để trải nghiệm trực tiếp các sản phẩm",
+      "placeholder": "Bản đồ Google Maps sẽ được tích hợp tại đây"
+    },
+    "faq": {
+      "title": "Câu Hỏi Thường Gặp",
+      "description": "Những thắc mắc phổ biến từ khách hàng"
+    }
+  },
+  "about": {
+    "title": "Về Silklux",
+    "subtitle": "Với hơn 15 năm kinh nghiệm, chúng tôi tự hào là đơn vị tiên phong trong việc cung cấp các giải pháp nội thất cao cấp, mang đến vẻ đẹp sang trọng và đẳng cấp cho không gian sống.",
+    "stats": {
+      "experience": "Năm kinh nghiệm",
+      "customers": "Khách hàng hài lòng",
+      "projects": "Dự án hoàn thành",
+      "partners": "Đối tác tin cậy"
+    },
+    "story": {
+      "title": "Câu Chuyện Của Chúng Tôi",
+      "paragraph1": "Silklux được thành lập vào năm 2009 với sứ mệnh mang đến những sản phẩm gỗ ép tường chất lượng cao, đáp ứng nhu cầu ngày càng cao của khách hàng về không gian sống đẹp và bền vững.",
+      "paragraph2": "Từ một xưởng sản xuất nhỏ, chúng tôi đã không ngừng phát triển và mở rộng, đầu tư vào công nghệ hiện đại và đội ngũ chuyên gia giàu kinh nghiệm để tạo ra những sản phẩm tốt nhất.",
+      "paragraph3": "Ngày nay, Silklux tự hào là một trong những thương hiệu hàng đầu trong lĩnh vực nội thất cao cấp tại Việt Nam, với đa dạng thiết kế và chất liệu premium."
+    },
+    "timeline": {
+      "title": "Hành Trình Phát Triển",
+      "subtitle": "Những cột mốc quan trọng trong quá trình phát triển của chúng tôi",
+      "milestones": {
+        "2009": {
+          "title": "Thành lập công ty",
+          "description": "Bắt đầu hành trình với tầm nhìn mang gỗ ép tường chất lượng cao đến mọi gia đình Việt Nam"
+        },
+        "2012": {
+          "title": "Mở rộng sản xuất",
+          "description": "Đầu tư dây chuyền sản xuất hiện đại, nâng cao chất lượng sản phẩm"
+        },
+        "2015": {
+          "title": "Chứng nhận ISO",
+          "description": "Đạt chứng nhận ISO 9001:2015 về hệ thống quản lý chất lượng"
+        },
+        "2018": {
+          "title": "Xuất khẩu quốc tế",
+          "description": "Mở rộng thị trường xuất khẩu sang các nước ASEAN"
+        },
+        "2021": {
+          "title": "Công nghệ xanh",
+          "description": "Áp dụng công nghệ sản xuất thân thiện với môi trường"
+        },
+        "2024": {
+          "title": "Dẫn đầu thị trường",
+          "description": "Trở thành thương hiệu gỗ ép tường số 1 tại Việt Nam"
+        }
+      }
+    },
+    "values": {
+      "title": "Giá Trị Cốt Lõi",
+      "subtitle": "Những giá trị định hướng mọi hoạt động của chúng tôi",
+      "quality": {
+        "title": "Chất Lượng",
+        "description": "Cam kết mang đến sản phẩm chất lượng cao nhất với tiêu chuẩn quốc tế"
+      },
+      "dedication": {
+        "title": "Tận Tâm",
+        "description": "Phục vụ khách hàng với sự tận tâm và chuyên nghiệp trong mọi dịch vụ"
+      },
+      "trust": {
+        "title": "Tin Cậy",
+        "description": "Xây dựng niềm tin qua từng sản phẩm và dịch vụ chất lượng"
+      },
+      "innovation": {
+        "title": "Đổi Mới",
+        "description": "Không ngừng đổi mới và cải tiến để đáp ứng nhu cầu thị trường"
+      }
+    },
+    "team": {
+      "title": "Đội Ngũ Lãnh Đạo",
+      "subtitle": "Những con người tài năng đứng sau thành công của Silklux"
+    },
+    "cta": {
+      "title": "Sẵn Sàng Bắt Đầu Dự Án Của Bạn?",
+      "subtitle": "Hãy để chúng tôi tư vấn và mang đến giải pháp tốt nhất cho không gian của bạn",
+      "contact": "Liên Hệ Ngay",
+      "products": "Xem Sản Phẩm"
+    }
+  },
+  "admin": {
+    "login": {
+      "title": "Đăng Nhập Admin",
+      "username": "Tên đăng nhập",
+      "password": "Mật khẩu",
+      "submit": "Đăng Nhập",
+      "error": "Tên đăng nhập hoặc mật khẩu không đúng"
+    },
+    "navigation": {
+      "dashboard": "Tổng Quan",
+      "products": "Sản Phẩm",
+      "categories": "Danh Mục",
+      "options": "Tùy Chọn",
+      "customers": "Khách Hàng",
+      "contacts": "Liên Hệ",
+      "admins": "Quản Trị Viên",
+      "settings": "Cài Đặt",
+      "blog": "Blog",
+      "logout": "Đăng Xuất"
+    },
+    "dashboard": {
+      "title": "Tổng Quan",
+      "welcome": "Chào mừng trở lại!",
+      "stats": {
+        "totalProducts": "Tổng Sản Phẩm",
+        "totalCustomers": "Tổng Khách Hàng",
+        "totalContacts": "Tổng Liên Hệ",
+        "totalCategories": "Tổng Danh Mục",
+        "fromLastMonth": "từ tháng trước"
+      },
+      "recentContacts": "Liên Hệ Gần Đây",
+      "recentContactsDescription": "Các yêu cầu tư vấn mới nhất từ khách hàng",
+      "salesChart": "Doanh Thu & Liên Hệ Theo Tháng",
+      "salesChartDescription": "Biểu đồ doanh thu và số lượng liên hệ 6 tháng gần đây",
+      "categoryChart": "Phân Bố Sản Phẩm Theo Danh Mục",
+      "categoryChartDescription": "Tỷ lệ phần trăm các loại sản phẩm",
+      "revenue": "Doanh thu",
+      "contacts": "Liên hệ",
+      "noData": "Không có dữ liệu",
+      "noCategoryData": "Không có dữ liệu danh mục",
+      "viewAll": "Xem tất cả",
+      "quickActions": "Thao Tác Nhanh",
+      "quickActionsDescription": "Các chức năng thường dùng",
+      "reports": "Báo cáo thống kê",
+      "exportData": "Xuất dữ liệu"
+    },
+    "products": {
+      "title": "Quản Lý Sản Phẩm",
+      "description": "Quản lý danh sách sản phẩm gỗ ép tường",
+      "addNew": "Thêm Sản Phẩm Mới",
+      "addDescription": "Điền thông tin chi tiết cho sản phẩm mới với variations và nội dung",
+      "editDescription": "Cập nhật thông tin sản phẩm với variations và nội dung",
+      "previewTitle": "Xem Trước Sản Phẩm",
+      "previewDescription": "Xem trước sản phẩm như khách hàng sẽ thấy trên trang web",
+      "name": "Tên Sản Phẩm",
+      "category": "Danh Mục",
+      "price": "Giá",
+      "status": "Trạng Thái",
+      "actions": "Thao Tác",
+      "edit": "Sửa",
+      "delete": "Xóa",
+      "view": "Xem",
+      "active": "Hoạt Động",
+      "inactive": "Không Hoạt Động",
+      "search": "Tìm kiếm sản phẩm...",
+      "selectCategory": "Chọn danh mục",
+      "allCategories": "Tất cả danh mục",
+      "productList": "Danh Sách Sản Phẩm",
+      "productListDescription": "Quản lý thông tin các sản phẩm gỗ ép tường",
+      "loading": "Đang tải...",
+      "product": "Sản phẩm",
+      "createdDate": "Ngày tạo",
+      "editProduct": "Chỉnh Sửa Sản Phẩm",
+      "noProducts": "Không có sản phẩm nào",
+      "form": {
+        "title": "Thông Tin Sản Phẩm",
+        "name": "Tên Sản Phẩm",
+        "namePlaceholder": "Nhập tên sản phẩm",
+        "description": "Mô Tả",
+        "descriptionPlaceholder": "Nhập mô tả ngắn về sản phẩm (hiển thị trong danh sách)",
+        "content": "Nội dung chi tiết",
+        "contentPlaceholder": "Nhập nội dung chi tiết về sản phẩm (hỗ trợ HTML)",
+        "htmlSupport": "Có thể sử dụng HTML tags: <h3>, <p>, <ul>, <li>, <strong>, <em>, <br>",
+        "price": "Giá (đ)",
+        "basePrice": "Giá cơ bản (đ)",
+        "originalPrice": "Giá gốc (đ)",
+        "category": "Danh Mục",
+        "images": "Hình Ảnh Sản Phẩm",
+        "imagesDescription": "Upload hình ảnh sản phẩm (ảnh đầu tiên sẽ là ảnh chính)",
+        "colors": "Màu Sắc",
+        "sizes": "Kích Thước",
+        "thickness": "Độ Dày",
+        "variations": "Biến Thể Sản Phẩm",
+        "variationDescription": "Thêm các lựa chọn {{type}} với giá riêng cho từng variation",
+        "variationName": "Tên {{type}}",
+        "variationPlaceholder": "Nhập tên {{type}}",
+        "addVariation": "Thêm {{type}}",
+        "default": "Mặc định",
+        "featuresTitle": "Đặc Điểm Nổi Bật",
+        "featuresDescription": "Thêm các đặc điểm nổi bật của sản phẩm",
+        "featurePlaceholder": "Nhập đặc điểm nổi bật",
+        "addFeature": "Thêm đặc điểm",
+        "specificationsTitle": "Thông Số Kỹ Thuật",
+        "specificationsDescription": "Điền thông tin kỹ thuật chi tiết của sản phẩm",
+        "materialPlaceholder": "Gỗ MDF phủ veneer sồi tự nhiên",
+        "originPlaceholder": "Việt Nam",
+        "warrantyPlaceholder": "10 năm",
+        "fireResistantPlaceholder": "Cấp B1",
+        "moistureResistantPlaceholder": "Độ ẩm < 12%",
+        "installationPlaceholder": "Dán keo hoặc ốc vít",
+        "basicInfoDescription": "Điền thông tin chi tiết về sản phẩm và upload hình ảnh",
+        "validation": "Vui lòng điền đầy đủ thông tin và upload ít nhất 1 hình ảnh",
+        "save": "Lưu",
+        "cancel": "Hủy",
+        "saving": "Đang lưu...",
+        "create": "Tạo Sản Phẩm",
+        "update": "Cập Nhật Sản Phẩm"
+      },
+      "noImages": "Không có hình ảnh",
+      "rating": "đánh giá",
+      "specifications": "Thông số kỹ thuật",
+      "installationGuide": "Hướng dẫn lắp đặt",
+      "features": "Đặc điểm nổi bật",
+      "contactButton": "Liên Hệ Tư Vấn & Báo Giá",
+      "freeMeasurement": "Đo đạc miễn phí",
+      "designConsultation": "Tư vấn thiết kế",
+      "warranty10Years": "Bảo hành 10 năm",
+      "prepareSurface": "Chuẩn bị bề mặt",
+      "measureAndCut": "Đo đạc và cắt",
+      "installationStep": "Lắp đặt",
+      "finishing": "Hoàn thiện",
+      "notUpdated": "Chưa cập nhật"
+    },
+    "categories": {
+      "title": "Quản Lý Danh Mục",
+      "description": "Quản lý danh mục sản phẩm",
+      "addNew": "Thêm Danh Mục Mới",
+      "addDescription": "Tạo danh mục sản phẩm mới",
+      "edit": "Chỉnh Sửa Danh Mục",
+      "editDescription": "Cập nhật thông tin danh mục",
+      "name": "Tên Danh Mục",
+      "namePlaceholder": "Nhập tên danh mục",
+      "slug": "Slug",
+      "slugPlaceholder": "slug-tu-dong-tao",
+      "categoryDescription": "Mô Tả",
+      "descriptionPlaceholder": "Mô tả danh mục",
+      "imageUrl": "URL hình ảnh",
+      "imageUrlPlaceholder": "https://example.com/image.jpg",
+      "activate": "Kích hoạt danh mục",
+      "search": "Tìm kiếm danh mục...",
+      "list": "Danh Sách Danh Mục",
+      "listDescription": "Quản lý các danh mục sản phẩm",
+      "loading": "Đang tải...",
+      "category": "Danh mục",
+      "status": "Trạng thái",
+      "createdDate": "Ngày tạo",
+      "actions": "Hành động",
+      "active": "Hoạt động",
+      "inactive": "Tạm dừng",
+      "cancel": "Hủy",
+      "create": "Tạo Danh Mục",
+      "creating": "Đang tạo...",
+      "update": "Cập Nhật",
+      "updating": "Đang cập nhật...",
+      "noCategories": "Không có danh mục nào"
+    },
+    "options": {
+      "title": "Quản Lý Tùy Chọn",
+      "description": "Quản lý màu sắc, kích thước và độ dày sản phẩm",
+      "addNew": "Thêm Tùy Chọn Mới",
+      "addDescription": "Tạo tùy chọn sản phẩm mới",
+      "edit": "Chỉnh Sửa Tùy Chọn",
+      "editDescription": "Cập nhật thông tin tùy chọn",
+      "type": "Loại tùy chọn",
+      "selectType": "Chọn loại tùy chọn",
+      "allTypes": "Tất cả loại",
+      "displayName": "Tên hiển thị",
+      "value": "Giá trị",
+      "colorCode": "Mã màu",
+      "colorCodeExample": "#000000",
+      "colorExample": "VD: Trắng Ngà",
+      "sizeExample": "VD: 122cm x 244cm",
+      "thicknessExample": "VD: 3mm",
+      "colorValueExample": "VD: ivory-white",
+      "sizeValueExample": "VD: 122x244",
+      "thicknessValueExample": "VD: 3",
+      "search": "Tìm kiếm tùy chọn...",
+      "list": "Danh Sách Tùy Chọn",
+      "listDescription": "Quản lý các tùy chọn sản phẩm",
+      "loading": "Đang tải...",
+      "status": "Trạng thái",
+      "actions": "Hành động",
+      "active": "Hoạt động",
+      "inactive": "Tạm dừng",
+      "cancel": "Hủy",
+      "create": "Tạo Tùy Chọn",
+      "creating": "Đang tạo...",
+      "update": "Cập Nhật",
+      "updating": "Đang cập nhật...",
+      "colors": "Màu Sắc",
+      "sizes": "Kích Thước",
+      "thickness": "Độ Dày",
+      "noOptions": "Không có tùy chọn nào"
+    },
+    "customers": {
+      "title": "Quản Lý Khách Hàng",
+      "description": "Danh sách và thông tin khách hàng",
+      "addNew": "Thêm Khách Hàng Mới",
+      "addDescription": "Tạo hồ sơ khách hàng mới trong hệ thống",
+      "exportExcel": "Xuất Excel",
+      "totalCustomers": "Tổng Khách Hàng",
+      "activeCustomers": "Khách Hàng Hoạt Động",
+      "revenue": "Doanh Thu Từ KH",
+      "totalOrders": "Tổng Đơn Hàng",
+      "name": "Họ tên",
+      "namePlaceholder": "Nhập họ tên",
+      "phone": "Số điện thoại",
+      "phonePlaceholder": "Nhập số điện thoại",
+      "email": "Email",
+      "emailPlaceholder": "Nhập email",
+      "customerType": "Loại khách hàng",
+      "company": "Tên công ty",
+      "companyPlaceholder": "Nhập tên công ty",
+      "taxCode": "Mã số thuế",
+      "taxCodePlaceholder": "Nhập mã số thuế",
+      "address": "Địa chỉ",
+      "addressPlaceholder": "Nhập địa chỉ",
+      "status": "Trạng thái",
+      "source": "Nguồn khách hàng",
+      "notes": "Ghi chú",
+      "notesPlaceholder": "Nhập ghi chú về khách hàng",
+      "statusActive": "Hoạt Động",
+      "statusInactive": "Không Hoạt Động",
+      "statusPotential": "Tiềm Năng",
+      "statusUnknown": "Không xác định",
+      "typeBusiness": "Doanh Nghiệp",
+      "typeIndividual": "Cá Nhân",
+      "typeUnknown": "Không xác định",
+      "sourceContact": "Từ Liên Hệ",
+      "sourceDirect": "Trực Tiếp",
+      "sourceReferral": "Giới Thiệu",
+      "sourceOnline": "Online",
+      "sourceOther": "Khác",
+      "createdAt": "Ngày Tạo",
+      "actions": "Thao Tác",
+      "view": "Xem",
+      "delete": "Xóa",
+      "noCustomers": "Không có khách hàng nào"
+    },
+    "contacts": {
+      "title": "Quản Lý Liên Hệ",
+      "description": "Danh sách các yêu cầu tư vấn từ khách hàng",
+      "exportExcel": "Xuất Excel",
+      "search": "Tìm kiếm...",
+      "allStatuses": "Tất cả",
+      "list": "Danh Sách Liên Hệ",
+      "listDescription": "Quản lý các yêu cầu tư vấn từ khách hàng",
+      "customer": "Khách hàng",
+      "contact": "Liên hệ",
+      "product": "Sản phẩm",
+      "status": "Trạng thái",
+      "createdDate": "Ngày tạo",
+      "actions": "Hành động",
+      "loading": "Đang tải...",
+      "noContacts": "Không có liên hệ nào",
+      "noAddress": "Chưa có địa chỉ",
+      "generalConsultation": "Tư vấn chung",
+      "statusPending": "Chờ xử lý",
+      "statusContacted": "Đã Liên Hệ",
+      "statusCompleted": "Hoàn Thành",
+      "statusCancelled": "Đã Hủy",
+      "statusUnknown": "Không xác định",
+      "detailTitle": "Chi Tiết Liên Hệ",
+      "detailDescription": "Thông tin chi tiết yêu cầu tư vấn",
+      "name": "Họ tên",
+      "phone": "Số điện thoại",
+      "email": "Email",
+      "interestedProduct": "Sản phẩm quan tâm",
+      "address": "Địa chỉ",
+      "message": "Tin nhắn",
+      "updateStatus": "Cập nhật trạng thái",
+      "convertTitle": "Chuyển Đổi Thành Khách Hàng",
+      "convertDescription": "Chuyển đổi liên hệ \"{{name}}\" thành khách hàng trong hệ thống",
+      "customerType": "Loại khách hàng",
+      "typeIndividual": "Cá nhân",
+      "typeBusiness": "Doanh nghiệp",
+      "company": "Tên công ty",
+      "companyPlaceholder": "Nhập tên công ty",
+      "taxCode": "Mã số thuế",
+      "taxCodePlaceholder": "Nhập mã số thuế",
+      "notes": "Ghi chú",
+      "notesPlaceholder": "Nhập ghi chú về khách hàng",
+      "cancel": "Hủy",
+      "convert": "Chuyển Đổi",
+      "subject": "Chủ Đề",
+      "createdAt": "Ngày Tạo",
+      "view": "Xem",
+      "delete": "Xóa",
+      "reply": "Trả Lời"
+    },
+    "common": {
+      "loading": "Đang tải...",
+      "save": "Lưu",
+      "cancel": "Hủy",
+      "edit": "Sửa",
+      "delete": "Xóa",
+      "view": "Xem",
+      "add": "Thêm",
+      "search": "Tìm kiếm",
+      "actions": "Thao Tác",
+      "status": "Trạng Thái",
+      "createdAt": "Ngày Tạo",
+      "updatedAt": "Ngày Cập Nhật",
+      "confirm": "Bạn có chắc chắn muốn thực hiện hành động này?",
+      "success": "Thành Công",
+      "error": "Lỗi"
+    }
+  }
+}
